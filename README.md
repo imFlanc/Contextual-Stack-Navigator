@@ -4,7 +4,7 @@ Contextual Stack Navigator (CSN), a navigation aid that helps users navigate in 
 paper(KR): [Contextual Stack Navigator: A Spatially Context-Aware Hierarchical View Management Interface for Supporting Visual Exploration](url)
 
 ![Exploratory Analysis](CSN_Figure1.svg)
-Exploratory visual analysis example.
+Example of performing exploratory visual analysis (EVA) during the data analysis process
 
 ![Exploratory Analysis on Contextual Stack Navigator](CSN_Figure2.svg)
-Exploratory visual analysis on Contextual Stack Navigator(CSN).
+When performing exploratory visual analysis with Contextual Stack Navigator (CSN)
