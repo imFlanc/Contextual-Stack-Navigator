@@ -2,7 +2,7 @@
 
 This is an presentation of our paper(KR): 
 
-**B. Kim**, K. Kwak, H. Eom, and H. Song, ["Contextual Stack Navigator: A Spatially Context-Aware Hierarchical View Management Interface for Supporting Visual Exploration"](10.23019/kingpc.21.1.202502.007), Journal of Korean Institute of Next Generation Computing, 2025
+**B. Kim**, K. Kwak, H. Eom, and H. Song, ["Contextual Stack Navigator: A Spatially Context-Aware Hierarchical View Management Interface for Supporting Visual Exploration"](https://doi.org/10.23019/kingpc.21.1.202502.007), Journal of Korean Institute of Next Generation Computing, 2025
 
 ## Summary
 Contextual Stack Navigator (CSN), a navigation aid that helps users navigate in exploratory visual analysis(EVA). CSN stores views generated during the exploration process in a hierarchical structure and provides users with clear contextual cues. CSN is not constrained by data representation types, making it applicable to a wide range of data analysis scenarios while supporting intuitive interactions and flexible data exploration.
