@@ -1,14 +1,25 @@
 # Contextual-Stack-Navigator
 
-This is an presentation of our paper(KR): 
+This repository presents the paper (KR):
 
-**B. Kim**, K. Kwak, H. Eom, and H. Song, ["Contextual Stack Navigator: A Spatially Context-Aware Hierarchical View Management Interface for Supporting Visual Exploration"](https://doi.org/10.23019/kingpc.21.1.202502.007), Journal of Korean Institute of Next Generation Computing, 2025
+- **B. Kim**, K. Kwak, H. Eom, and H. Song, ["Contextual Stack Navigator: A Spatially Context-Aware Hierarchical View Management Interface for Supporting Visual Exploration"](https://doi.org/10.23019/kingpc.21.1.202502.007), *Journal of Korean Institute of Next Generation Computing, 2025*
 
-## Summary
-Contextual Stack Navigator (CSN), a navigation aid that helps users navigate in exploratory visual analysis(EVA). CSN stores views generated during the exploration process in a hierarchical structure and provides users with clear contextual cues. CSN is not constrained by data representation types, making it applicable to a wide range of data analysis scenarios while supporting intuitive interactions and flexible data exploration.
+## Overview
+The **Contextual Stack Navigator (CSN)** is an advanced navigation aid designed to support **exploratory visual analysis (EVA)**. By storing views generated during the exploration process in a hierarchical structure, CSN offers users clear contextual cues, enhancing the navigation experience. Its flexibility allows CSN to be used across various data analysis scenarios, making it applicable to diverse fields without being constrained by specific data representations.
 
-![Exploratory Analysis](CSN_Figure1.svg)
-Example of performing exploratory visual analysis (EVA) during the data analysis process
+## Key Features
+- **Spatial Context Awareness**: Offers users intuitive visual context throughout the exploration process.
+- **Hierarchical View Management**: Organizes views in a stack-like structure to help users backtrack and refine their analysis.
+- **Flexible and Intuitive Interaction**: Facilitates smooth and efficient data exploration without requiring domain-specific representations.
+  
+## Visual Demo
+The following demo showcases **Contextual Stack Navigator (CSN)** in action during an exploratory visual analysis (EVA):
 
-![Exploratory Analysis on Contextual Stack Navigator](CSN_Figure2.svg)
-When performing exploratory visual analysis with Contextual Stack Navigator (CSN)
+![Exploratory Analysis](CSN_Figure1.svg)  
+*Example of performing exploratory visual analysis (EVA) during the data analysis process.*
+
+![Demo](CSN-Demo.gif)  
+*Demo of the CSN interface in action. See how CSN supports navigation and data exploration in a real-time scenario.*
+
+## Further Details
+For further details, refer to the full paper linked above.
