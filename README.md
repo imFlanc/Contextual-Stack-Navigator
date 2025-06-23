@@ -1,8 +1,8 @@
-# Contextual-Stack-Navigator
+# Contextual Stack Navigator (CSN)
 
 This repository presents the paper (KR):
 
-- **B. Kim**, K. Kwak, H. Eom, and H. Song, ["Contextual Stack Navigator: A Spatially Context-Aware Hierarchical View Management Interface for Supporting Visual Exploration"](https://doi.org/10.23019/kingpc.21.1.202502.007), *Journal of Korean Institute of Next Generation Computing, 2025*
+- **Byungmin Kim**, Kyuhan Kwak, Hoyong Eom, and Hyunjoo Song, ["Contextual Stack Navigator: A Spatially Context-Aware Hierarchical View Management Interface for Supporting Visual Exploration"](https://doi.org/10.23019/kingpc.21.1.202502.007), *Journal of Korean Institute of Next Generation Computing, 2025*
 
 ## Overview
 The **Contextual Stack Navigator (CSN)** is an advanced navigation aid designed to support **exploratory visual analysis (EVA)**. By storing views generated during the exploration process in a hierarchical structure, CSN offers users clear contextual cues, enhancing the navigation experience. Its flexibility allows CSN to be used across various data analysis scenarios, making it applicable to diverse fields without being constrained by specific data representations.
@@ -16,10 +16,16 @@ The **Contextual Stack Navigator (CSN)** is an advanced navigation aid designed 
 The following demo showcases **Contextual Stack Navigator (CSN)** in action during an exploratory visual analysis (EVA):
 
 ![Exploratory Analysis](CSN_Figure1.svg)  
-*Example of performing exploratory visual analysis (EVA) during the data analysis process.*
+<div align="center">
+  <b>Fig. 1. Example of performing exploratory visual analysis (EVA) during the data analysis process.  </b><br/>
+</div>  
 
+  <br>
+  
 ![Demo](CSN-Demo.gif)  
-*Demo of the CSN interface in action. See how CSN supports navigation and data exploration in a real-time scenario.*
+<div align="center">
+  <b>Fig. 2. Demo of the CSN interface in action. See how CSN supports navigation and data exploration in a real-time scenario.</b><br/>
+</div>
 
 ## Further Details
 For further details, refer to the full paper linked above.
